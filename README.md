@@ -1,4 +1,4 @@
 # Movie-Prediction
-A movie prediction function by finding the highest correlation with a specific movie 
+Prediciting movies by finding the movies which have the highest correlation with the specific movie 
 
 I used the following dataset: https://grouplens.org/datasets/movielens/100k/
